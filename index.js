@@ -102,11 +102,11 @@ const questions = [
   // License
   {
     type: 'checkbox',
-    name: 'licensing',
+    name: 'license',
     message: 'Choose your license',
     choices: ['Apache', 'MIT', 'None'],
-    validate: licensingInput => {
-        if (licensingInput) {
+    validate: licenseInput => {
+        if (licenseInput) {
             return true;
         } else {
             console.log('License required!');
