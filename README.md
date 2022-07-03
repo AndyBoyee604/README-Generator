@@ -1,6 +1,6 @@
 # README Generator
 
-  ## Licensing:
+  ## License:
   [![license](https://img.shields.io/badge/license-None-blue)](https://shields.io)
 
   ## Table of Contents 
@@ -20,15 +20,12 @@
   ## Usage:
   Open in VS Code, view terminal and type 'node index' to run. Then simply answer all questions provided and your README.md will be created for you.
 
-  ## License:
-  None
-
   ## Contribution:
-  No contribution needed.
+  No constribution needed.
 
   ## Testing:
   Test in VS Code.
   
   ## Additional Info:
-  - Github: [AndyBoyee604](https://github.com/AndyBoyee604)
+  - Github: [Andyboyee604](https://github.com/Andyboyee604)
   - Email: email@email.com 
